@@ -8,7 +8,6 @@ public class MedibuddyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MedibuddyApplication.class, args);
-        System.out.println("Medibuddy Application Started Successfully!");
     }
 
 }
